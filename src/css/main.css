@@ -76,7 +76,7 @@ form {
 }
 
 .login-submit {
-  border: 0px;
+  border: none;
   display: flex;
   height: 40px;
   justify-content: center;
